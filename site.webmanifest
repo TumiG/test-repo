@@ -1,0 +1,13 @@
+{
+
+    "name": "Add to Cart",
+    "short_name": "Add to Cart",
+    "icons":
+    [
+        {"src:"/https://static.vecteezy.com/system/resources/thumbnails/006/475/512/small_2x/cute-cat-inside-shopping-basket-free-vector.jpg"},
+        {"src:"/https://static.vecteezy.com/system/resources/thumbnails/006/475/512/small_2x/cute-cat-inside-shopping-basket-free-vector.jpg"}
+    ],
+    "theme_color": "#EEF0F4",
+    "background_color" "#EEF0F4",
+    "display": "standalone"
+}
